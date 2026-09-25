@@ -2,7 +2,7 @@
 
 # Nichehlikes15
 ### SOFTWARE DEVELOPER
-### Python • React • Rust
+### Python • React • Rust • Lua
 
 <br/>
 
