@@ -3,7 +3,7 @@
 # Nichehlikes15
 ### SOFTWARE DEVELOPER
 ### Python • React • Rust • Lua
-Driven by curiosity, built with code.
+*Driven by curiosity, built with code.*
 
 <br/>
 
